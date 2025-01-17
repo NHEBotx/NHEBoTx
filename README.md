@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=50&pause=1000&color=F727E5&width=415&height=70&lines=HALLO+WAHAI+UMAT+;MINIMAL+KALO+MAKEK+REPOSITORY+;DIKASIH+BINTANG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=50&pause=1000&color=F727E5&width=415&height=70&lines=HALLO+WAHAI+UMAT+;MINIMAL+KALO+MAKEK;DIKASIH+BINTANG⭐)](https://git.io/typing-svg)
 
 ---
 
