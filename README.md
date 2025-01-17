@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+Silva's+Tech+Hub!;Frontend+Developer+|+Bot+Creator+|+API+Wizard;Lover+of+Innovative+Projects+✨;Building+the+Future,+One+Line+at+a+Time💡;Stay+Curious,+Stay+Creative!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+NHEBotx+Hub!;Frontend+Developer+|+Bot+Creator+|+API+Wizard;Lover+of+Innovative+Projects+✨;Building+the+Future,+One+Line+at+a+Time💡;Stay+Curious,+Stay+Creative!">
   </a>
 </p>
 
@@ -98,7 +98,7 @@
 ### 🎉 Customized GitHub Profile Badges
 <p align="center">
   <a href="https://github.com/NHEBotx"><img src="https://img.shields.io/badge/-Follow%20Me-red?style=for-the-badge"></a>
-  <a href="https://silva-ap-is.vercel.app"><img src="https://img.shields.io/badge/-My%20APIs-blue?style=for-the-badge"></a>
+  <a href="https://whatsapp.com/channel/0029Vb2kT5pJ3jv5yIVMsx2q"><img src="https://img.shields.io/badge/-My%20CHANNEL%20WA-blue?style=for-the-badge"></a>
 </p>
 
 ---
@@ -130,6 +130,6 @@
 
 <p align="center">
   <a href="https://github.com/NHEBotx/NHEBotx">
-    <img src="https://img.shields.io/badge/Silva%20MD%20Bot-FF4500?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/NHEbotx%20MD%20Bot-FF4500?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
